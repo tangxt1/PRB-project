@@ -15,3 +15,8 @@ In the Table of Contents--right click excel file Sheet--Display XY data--define 
 
 
 
+## 2 - SplitsTree
+
+Haplotypes
+
+
