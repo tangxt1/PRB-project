@@ -18,8 +18,13 @@ In the Table of Contents--right click excel file Sheet--Display XY data--define 
 
 http://cmpg.unibe.ch/software/samova2/
 
+### Inputfile
 
+Inputfile.arp
 
+Inputfile.geo
+
+using the command line: samova2_console.exe
 
 ## 2 - SplitsTree
 
