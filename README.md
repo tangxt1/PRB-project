@@ -26,6 +26,8 @@ Inputfile.geo
 
 Using the command line: *samova2_console.exe*
 
+SAMOVA (spatial analysis of molecular variance) v. 2.0 (Dupanloup et al., 2002) was used to define the genetic structure of PRB populations with K values ranging from 2 to 10 and 100 independent simulated annealing processes. The most supported number of groups (K) was determined by repeating and selecting the subdivision scheme associated with the highest FCT, fixation index between groups or components. 
+
 ## 2 - SplitsTree
 
 Haplotypes
