@@ -28,9 +28,11 @@ Using the command line: *samova2_console.exe*
 
 SAMOVA (spatial analysis of molecular variance) v. 2.0 (Dupanloup et al., 2002) was used to define the genetic structure of PRB populations with K values ranging from 2 to 10 and 100 independent simulated annealing processes. The most supported number of groups (K) was determined by repeating and selecting the subdivision scheme associated with the highest FCT, fixation index between groups or components. 
 
-## 2 - SplitsTree
+## 3 - SplitsTree
 
-Haplotypes
+Haplotypes relationships were tested by SPLITSTREE v. 4.14.6 (Huson & Bryant, 2005) with the Neighbor-Net method under a distance model of Kimura-2-parameter (K2P). 
+
+
 
 
 ## 3 - Redundancy analysis (RDA)
