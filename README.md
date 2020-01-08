@@ -32,6 +32,8 @@ SAMOVA (spatial analysis of molecular variance) v. 2.0 (Dupanloup et al., 2002) 
 
 Haplotypes relationships were tested by SPLITSTREE v. 4.14.6 (Huson & Bryant, 2005) with the Neighbor-Net method under a distance model of Kimura-2-parameter (K2P). 
 
+Edit--Selected the label nodes--View--Format Nodes, so that change the node format(shape, color...). 
+
 ## 4 - DAPC (Discriminant analysis of principal components )
 
 http://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf
