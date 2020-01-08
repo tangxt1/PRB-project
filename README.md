@@ -40,7 +40,11 @@ http://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf
 
 Discriminant analysis of principal components (DAPC) was used to investigate genetic structure across the PRB populations. DAPC was performed with the R package ADEGENET (Jombart, 2008) in the R environment. The R scripts can be found in **DAPC-commands-PRB.R.** Importantly, DAPC does not require a biological hypothesis and acts as a complement to STRUCTURE analysis, which considers HWE and linkage equilibrium in its own algorithm. 
 
-## 5 - Redundancy analysis (RDA)
+## 5 - STRUCTURE
+
+## 6 - DIYABC
+
+## 7 - Redundancy analysis (RDA)
 
 
 
