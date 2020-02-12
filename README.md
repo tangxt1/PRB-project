@@ -50,6 +50,10 @@ CLUMPAK: http://clumpak.tau.ac.il/index.html
 
 ## 6 - DIYABC
 
+http://www1.montpellier.inra.fr/CBGP/diyabc/
+
+
+
 ## 7 - Redundancy analysis (RDA)
 
 
