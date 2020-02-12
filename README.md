@@ -42,7 +42,9 @@ Discriminant analysis of principal components (DAPC) was used to investigate gen
 
 ## 5 - STRUCTURE
 
-http://clumpak.tau.ac.il/index.html
+Structure Harvester: http://taylor0.biology.ucla.edu/structureHarvester/
+
+CLUMPAK: http://clumpak.tau.ac.il/index.html
 
 ## 6 - DIYABC
 
