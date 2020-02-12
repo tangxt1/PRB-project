@@ -42,6 +42,8 @@ Discriminant analysis of principal components (DAPC) was used to investigate gen
 
 ## 5 - STRUCTURE
 
+STRUCTURE v. 2.3.3 (Falush et al., 2003; Pritchard et al., 2000) was used to determine a reasonable number of partitions (K) for the studied populations. Clustering results were then visualized by CLUMPAK (http://clumpak.tau.ac.il/index.html). In this analysis, we specified an initial range of potential genotype clusters (K) from 1 to 10 under the admixed model with the assumption of correlated allele frequencies among populations. For each K value, ten runs were performed with 1,000,000 iterations discarded as ‘burn-in’, followed by an additional 10 million iterations. The most probable number of K values in the data was detected by comparing the log probability of the data [LnP (D)] for K values among all ten runs and by examining the standardized second-order change of LnP (D) and ΔK (Evanno et al., 2005).
+
 Structure Harvester: http://taylor0.biology.ucla.edu/structureHarvester/
 
 CLUMPAK: http://clumpak.tau.ac.il/index.html
