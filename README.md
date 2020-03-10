@@ -58,7 +58,11 @@ http://www1.montpellier.inra.fr/CBGP/diyabc/
 ## 8 - Migrate
 
 
-## 9 - Redundancy analysis (RDA)
+## 9 - Niche modelling
+
+MaxEnt (Phillips et al., 2006) was used to analyze whether climatic stability as well as current and past climate conditions are responsible for observed patterns of PRB genetic diversity and structure. We obtained bioclimatic data layers for current, last glacial maximum (LGM) and last interglacial (LIG) conditions from the WorldClim database (http://worldclim.org/current.htm) (Hijmans et al., 2005). The random test percentage was set to 25%, and the Jackknife procedure was used to estimate the contribution of each variable based on performance of the model. The area under the curve (AUC) value was calculated for model validation; AUC reflects the model’s ability to distinguish between present records and random background points. AUC values ranged from 0.5 (not different from a randomly-selected predictive distribution) to 1.0 (with perfect predictive ability). The final map was visualized and processed using the ArcGIS platform (http://www.esri.com/software/arcgis).
+
+## 10 - Redundancy analysis (RDA)
 
 
 
