@@ -52,9 +52,13 @@ CLUMPAK: http://clumpak.tau.ac.il/index.html
 
 http://www1.montpellier.inra.fr/CBGP/diyabc/
 
+## 7 - Beast
 
 
-## 7 - Redundancy analysis (RDA)
+## 8 - Migrate
+
+
+## 9 - Redundancy analysis (RDA)
 
 
 
