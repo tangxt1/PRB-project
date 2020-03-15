@@ -54,6 +54,7 @@ http://www1.montpellier.inra.fr/CBGP/diyabc/
 
 ## 7 - Beast
 
+The timing of divergence was estimated in BEAST v. 2.5.0 (Drummond & Rambaut, 2007). As there is no fossil record that could be used to calibrate the tree, a molecular clock approach was employed to estimate divergence time between the two major groups. We used the conventional mutation rate (2.3% per million years) for the insect mitochondrial genes (Brower, 1994). Under the lognormal relaxed clock model, we fixed a rate of 0.0115 substitutions/site/million years (corresponding to the divergence rate of 2.3% per million years, respectively). MCMC chains were run ten million generations, with sampling every 1,000 generations. Chain convergence was assessed by examining the ESS of parameters with TRACER v. 1.7.1 (Rambaut et al., 2018). We used TreeAnnotator v 2.5.0 (Bouckaert et al., 2014) to summarize the 95% highest posterior densities (95% HPD) and 50% majority rule consensus trees with a 10% burn-in. The tree and divergence times were visualized in FigTree 1.4.4 (http://tree.bio.ed.ac.uk/software/figtree/).
 
 ## 8 - Migrate
 
