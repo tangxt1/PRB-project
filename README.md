@@ -63,7 +63,11 @@ The timing of divergence was estimated in BEAST v. 2.5.0 (Drummond & Rambaut, 20
 
 MaxEnt (Phillips et al., 2006) was used to analyze whether climatic stability as well as current and past climate conditions are responsible for observed patterns of PRB genetic diversity and structure. We obtained bioclimatic data layers for current, last glacial maximum (LGM) and last interglacial (LIG) conditions from the WorldClim database (http://worldclim.org/current.htm) (Hijmans et al., 2005). The random test percentage was set to 25%, and the Jackknife procedure was used to estimate the contribution of each variable based on performance of the model. The area under the curve (AUC) value was calculated for model validation; AUC reflects the model’s ability to distinguish between present records and random background points. AUC values ranged from 0.5 (not different from a randomly-selected predictive distribution) to 1.0 (with perfect predictive ability). The final map was visualized and processed using the ArcGIS platform (http://www.esri.com/software/arcgis).
 
-## 10 - Redundancy analysis (RDA)
+## 10 - Null allele frequencies 
+
+We estimated null allele frequencies and FST using the software FreeNa with a number of replicates fixed to 10,000 (Chapuis & Estoup, 2007). To provide an accurate estimation of FST, we ran this analysis using the ENA correction method to efficiently correct for the positive bias induced by the presence of null alleles on FST estimation if applicable. 
+
+## 11 - Redundancy analysis (RDA)
 
 
 
